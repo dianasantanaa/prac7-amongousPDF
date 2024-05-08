@@ -1,0 +1,73 @@
+.Amongous{
+    margin: auto;
+
+}
+.rectangulo{/*crea una figura*/
+    width: 120px;/*ancho del rectangulo*/
+    height: 190px;/*altura del rectangulo*/
+    border: 10px solid black; /*establece color y tamaño del borde*/
+    background-color: rgb(235, 43, 226);/*Color de la figura*/
+    margin-left: 550px;/*margen izquierdo*/
+    margin-top: 55px;/*margen superior*/
+    border-radius: 80px;/*esquinas curveadas para la figura*/
+    position:fixed;/* hace que un elemento se coloque respecto al viewport*/
+}
+.rectangulo2{/*crea una figura*/
+    width: 50px;/*ancho del rectangulo*/
+    height: 100px;/*altura del rectangulo*/
+    border: 10px solid black;/*establece color y tamaño del borde*/
+    background-color: rgb(235, 43, 226);/*Color de la figura*/
+    margin-left: 525px;/*margen izquierdo*/
+    margin-top: 90px;/*margen superior*/
+    border-radius: 20%;/*esquinas curveadas para la figura*/
+    position: fixed;/* hace que un elemento se coloque respecto al viewport*/
+    z-index: -1;/*indica el orden de un elemento posicionado*/
+}
+.rectangulo3{/*crea una figura*/
+    width: 30px;/*ancho del rectangulo*/
+    height: 50px;/*altura del rectangulo*/
+    border: 10px solid black;/*establece color y tamaño del borde*/
+    background-color: rgb(235, 43, 226);/*Color de la figura*/
+    margin-left:570px ;/*margen izquierdo*/
+    margin-top: 220px;/*margen superior*/
+    border-radius:20% ;/*esquinas curveadas para la figura*/
+    position: fixed;/* hace que un elemento se coloque respecto al viewport*/
+    z-index: -1;/*indica el orden de un elemento posicionado*/
+}
+.rectangulo4{/*crea una figura*/
+    width: 30px;/*ancho del rectangulo*/
+    height: 50px;/*altura del rectangulo*/
+    border: 10px solid black;/*establece color y tamaño del borde*/
+    background-color: rgb(235, 43, 226);/*Color de la figura*/
+    margin-left:625px ;/*margen izquierdo*/
+    margin-top: 220px;/*margen superior*/
+    border-radius:20% ;/*esquinas curveadas para la figura*/
+    position: fixed;/* hace que un elemento se coloque respecto al viewport*/
+    z-index: -1;/*indica el orden de un elemento posicionado*/
+}
+.casco{/*crea una figura*/
+    width: 90px;/*ancho del rectangulo*/
+    height:50px;/*altura del rectangulo*/
+    border:10px solid black;/*establece color y tamaño del borde*/
+    background-color: blue;/*Color de la figura*/
+    margin-left:580px;/*margen izquierdo*/
+    margin-top:100px;/*margen superior*/
+    border-radius:20%;/*esquinas curveadas para la figura*/
+    position: fixed;/* hace que un elemento se coloque respecto al viewport*/
+}
+.casco2{
+    width: 70px;/*ancho del rectangulo*/
+    height:40px;/*altura del rectangulo*/
+    background-color: rgb(71, 235, 235);/*Color de la figura*/
+    margin-left:610px;/*margen izquierdo*/
+    margin-top:110px;/*margen superior*/
+    border-radius:20%;/*esquinas curveadas para la figura*/
+    position: fixed;/* hace que un elemento se coloque respecto al viewport*/
+}
+#download-pdf-btn{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(201, 145, 253);
+    border-radius: 10%;
+    margin: auto;
+}
